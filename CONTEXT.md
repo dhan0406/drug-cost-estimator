@@ -38,7 +38,7 @@ The repo currently contains **two independent UIs** that need to converge. Any c
 - **Privacy property to preserve:** patient answers live only in a JS variable; no cookies, localStorage, logging, or outbound requests carrying answers.
 - This file was `index.html` until today; it was renamed so the Vite app could take `index.html`.
 
-### 3b. New: React "Drug cost estimator" (`index.html` → `src/`)
+### 3b. New: React "Drug Cost Estimator" (`index.html` → `src/`)
 - **Stack:** Vite 8, React 19, TypeScript 6, TanStack Query 5, oxlint. `npm run dev | build | lint | preview`. Package name is still `drug-cost-app`.
 - **Flow (3-step form):** `CostEstimatorPage`
   1. `DiagnosisSearch` — debounced ICD-10 search

@@ -60,7 +60,7 @@ export function CostEstimatorPage() {
   return (
     <main className="page">
       <header className="masthead">
-        <h1>Drug cost estimator</h1>
+        <h1>Drug Cost Estimator</h1>
         <p>See whether your plan covers a prescription and roughly what you'll pay.</p>
       </header>
 
