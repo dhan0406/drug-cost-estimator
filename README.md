@@ -1,6 +1,6 @@
-# getmydrug
+# Prescription Drug Cost Estimator: getmydrug
 
-Live demo: https://getmydrug.vercel.app/
+https://getmydrug.vercel.app/
 
 **Find out what your insurer needs before it covers your medicine — before the pharmacy counter, not after.**
 
